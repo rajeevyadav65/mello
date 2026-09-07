@@ -1,0 +1,6 @@
+{
+  "name": "Mello - Global Music Streaming",
+  "description": "A modern, fluid global music streaming web app with voice search, local file playback, curated global trends, and background audio.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
