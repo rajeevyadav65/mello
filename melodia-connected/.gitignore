@@ -1,0 +1,19 @@
+# Backend
+backend/target/
+*.class
+
+# Frontend
+frontend-web/node_modules/
+frontend-web/dist/
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/*.iml
+
+# OS / editor
+.DS_Store
+.idea/
+*.log
